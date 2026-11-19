@@ -51,6 +51,3 @@ According to the report, Model A achieved 72.15% test accuracy and 69.37% mean 5
 
 Department of Computer Science and Engineering (AI & ML), MNR University, Academic Year 2026–2027. Faculty Guide: Dr. M. Praveen.
 
-## Before submission
-
-Add the final project presentation (`Project_Presentation.pptx`) and a demo video or public video link. Run the code on your computer and verify the output before submitting. Each team member should create or fork their own public GitHub repository and submit their own repository URL, as instructed by the course announcement.
