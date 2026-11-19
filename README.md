@@ -48,6 +48,14 @@ According to the report, Model A achieved 72.15% test accuracy and 69.37% mean 5
 - Nandini Nagadapally — 25RBAIM0070
 - Someshwari Thogarpally — 25RBAIM0075
 - Sahitya Chamanthula — 25RBAIM0077
+Institution Details
+Department: Computer Science and Engineering (AI & ML)
 
-Department of Computer Science and Engineering (AI & ML), MNR University, Academic Year 2026–2027. Faculty Guide: Dr. M. Praveen.
+University: MNR University
 
+Academic Year: 2026–2027
+
+Faculty Guide: Dr. M. Praveen
+
+Conclusion
+This project demonstrates how Machine Learning can be used to predict student academic performance. The Random Forest Classifier helps identify students who may need additional academic support. The early-warning model can help educators take timely action to improve student performance.
