@@ -1,0 +1,4 @@
+Download the Student Performance dataset (Mathematics course) from:
+https://archive.ics.uci.edu/dataset/320/student+performance
+
+Extract/download the file named student-mat.csv and place it in this project folder beside student_performance.py.
